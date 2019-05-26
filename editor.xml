@@ -1,0 +1,10 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="22" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="50" />
+  </component>
+</application>
